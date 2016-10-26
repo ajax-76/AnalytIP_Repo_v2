@@ -1,8 +1,8 @@
 branch-defaults:
   default:
-    environment: analytip-env
+    environment: analytip-env1
 environment-defaults:
-  analytip-env:
+  analytip-env1:
     branch: null
     repository: null
 global:
