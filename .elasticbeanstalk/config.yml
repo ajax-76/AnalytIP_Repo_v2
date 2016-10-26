@@ -1,0 +1,14 @@
+branch-defaults:
+  default:
+    environment: analytip-env
+environment-defaults:
+  analytip-env:
+    branch: null
+    repository: null
+global:
+  application_name: analytip
+  default_ec2_keyname: Ank-Ram
+  default_platform: python2.7
+  default_region: us-west-2
+  profile: eb-cli
+  sc: null
